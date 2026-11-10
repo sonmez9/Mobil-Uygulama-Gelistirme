@@ -24,8 +24,8 @@ Platform: **Android** (Android Studio emülatöründe ve release APK olarak doğ
 2. Android Studio'dan bir Android emülatör oluşturun veya fiziksel cihaz bağlayın.
 3. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/sonmez9/mini_katalog.git
-   cd mini_katalog
+   git clone https://github.com/sonmez9/Mobil-Uygulama-Gelistirme.git
+   cd Mobil-Uygulama-Gelistirme
    ```
 4. Bağımlılıkları yükleyin ve çalıştırın:
    ```bash
